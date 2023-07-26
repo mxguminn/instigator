@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/*navigation bar*/ 
+.nav_bar{
+  background-color: #87f59f;
+  color: #020202;
+  
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  line-height: 75px;
+  
+  font-family: "Arial Rounded MT Bold", "Arial Black", Arial;
+  font-size: 125%;
+}
+.nav_bar_links{
+  text-decoration: none;
+}
+.nav_bar_links_left{
+  float: left;
+  padding-left: 100px;
+}
+.nav_bar_links_right{
+  float: right;
+  padding-right: 100px;
+}
+
+/*images*/
+img{
+  width: 50%;
+  height: 50%;
+}
+.logo_header{
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  /*object-position: center;*/
+}
