@@ -44,9 +44,9 @@ img{
 }
 /*art html thumbnail images*/
 .art_thumbnail{
-  padding: 10px;
-  width: 25%
-  height: 25%
+  padding: 20px;
+  width: 100px;
+  height: 100px;
 }
 
 /* links*/
