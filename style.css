@@ -42,6 +42,12 @@ img{
   object-fit: cover;
   /*object-position: center;*/
 }
+/*art html thumbnail images*/
+.art_thumbnail{
+  padding: 10px;
+  width: 25%
+  height: 25%
+}
 
 /* links*/
 a:link{
