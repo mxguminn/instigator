@@ -44,18 +44,18 @@ img{
 }
 
 /* links*/
-a: link{
+a:link{
   color: #020202
 }
-a: visited{
+a:visited{
   color: darkslategray;
 }
-a: focus{
+a:focus{
   color: #020202
 }
-a: hover{
+a:hover{
   color:  #fc5132
 }
-a: active{
+a:active{
   color: #fc5132
 }
