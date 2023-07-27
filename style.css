@@ -17,16 +17,19 @@ html {
   font-size: 125%;
 }
 .nav_bar_links{
-  text-decoration: none;
+  text-decoration: underline;
 }
 .nav_bar_links_left{
   float: left;
   padding-left: 100px;
+  text-decoration: underline;
 }
 .nav_bar_links_right{
   float: right;
   padding-right: 100px;
+  text-decoration: underline;
 }
+
 
 /*images*/
 img{
@@ -38,4 +41,21 @@ img{
   max-height: 100%;
   object-fit: cover;
   /*object-position: center;*/
+}
+
+/* links*/
+a: link{
+  color: #020202
+}
+a: visited{
+  color: darkslategray;
+}
+a: focus{
+  color: #020202
+}
+a: hover{
+  color:  #fc5132
+}
+a: active{
+  color: #fc5132
 }
