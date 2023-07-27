@@ -3,7 +3,6 @@ html {
   width: 100%;
 }
 
-
 /*navigation bar*/ 
 .nav_bar{
   background-color: #87f59f;
@@ -46,8 +45,8 @@ img{
 /*art html thumbnail images*/
 .art_thumbnail{
   padding: 20px;
-  width: 30%;
-  height: 30%;
+  width: 60%;
+  height: 60%;
 }
 
 /* links*/
