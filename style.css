@@ -3,9 +3,10 @@ html {
   width: 100%;
 }
 
-/*navigation bar*/ 
+/*navigation bar
+green: #87f59f*/ 
 .nav_bar{
-  background-color: #87f59f;
+  background-color: #f2f2f2;
   color: #020202;
   
   max-width: 100%;
@@ -20,12 +21,10 @@ html {
   text-decoration: underline;
 }
 .nav_bar_links_left{
-  float: left;
   padding-left: 100px;
   text-decoration: underline;
 }
 .nav_bar_links_right{
-  float: right;
   padding-right: 100px;
   text-decoration: underline;
 }
