@@ -36,6 +36,13 @@ green: #87f59f*/
   background-color: white;
 }
 
+/*text*/
+.image_blurb{
+  font-family: Arial Rounded MT Bold, Arial Black, Arial;
+  font-size: 250%;
+  color: #020202;
+  text-align: center;  
+}
 
 /*images*/
 img{
