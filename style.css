@@ -97,3 +97,7 @@ a:active{
   color: #fc5132;
   text-decoration: none;
 }
+
+/*from google arts and culture
+*image-rendering: optimizeSpeed;
+*image-rendering: -webkit-optimize-contrast;*/
