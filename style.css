@@ -59,6 +59,11 @@ img{
   height: 100%;
 }
 
+/*grid layout*/
+.grid-container {
+  display: grid;
+}
+
 /* links*/
 a:link{
   color: #020202;
