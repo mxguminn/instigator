@@ -56,8 +56,8 @@ img{
 }
 .zoom_painting{
   cursor: zoom-in;
-  width: 150%
-  height: 150%
+  width: 150%;
+  height: 150%;
 }
 
 /* links*/
