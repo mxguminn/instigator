@@ -62,17 +62,17 @@ img{
 
 /* links*/
 a:link{
-  color: #020202
+  color: #020202;
 }
 a:visited{
   color: darkslategray;
 }
 a:focus{
-  color: #020202
+  color: #020202;
 }
 a:hover{
-  color:  #fc5132
+  color:  #fc5132;
 }
 a:active{
-  color: #fc5132
+  color: #fc5132;
 }
