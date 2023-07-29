@@ -9,6 +9,7 @@ green: #87f59f*/
   color: #020202;
   
   max-width: 100%;
+  min-width: 775px;
   max-height: 100%;
   text-align: right;
   line-height: 150px;
