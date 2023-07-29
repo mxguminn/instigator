@@ -17,18 +17,19 @@ green: #87f59f*/
   font-size: 125%;
 }
 .nav_bar_links{
-  text-decoration: underline;
+  text-decoration: none;
 }
 .nav_bar_links_left{
   padding-right: 50px;
-  text-decoration: underline;
+  text-decoration: none;
 }
 .nav_bar_links_right{
   padding-left: 50px;
-  text-decoration: underline;
+  padding-right: 50px;
+  text-decoration: none;
 }
 #nav_logo{
-  width: 250%;
+  width: 250px;
   height: 150px;
   float: left;
   background-color: white;
