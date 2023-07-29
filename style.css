@@ -63,6 +63,11 @@ img{
 .grid-container {
   display: grid;
 }
+.grid-item{
+  padding: 20px;
+  width: 60%;
+  height: 60%;
+}
 
 /* links*/
 a:link{
