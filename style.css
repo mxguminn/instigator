@@ -21,11 +21,11 @@ green: #87f59f*/
   text-decoration: underline;
 }
 .nav_bar_links_left{
-  padding-left: 100px;
+  padding-right: 50px;
   text-decoration: underline;
 }
 .nav_bar_links_right{
-  padding-right: 100px;
+  padding-left: 50px;
   text-decoration: underline;
 }
 #nav_logo{
