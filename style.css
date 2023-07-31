@@ -59,7 +59,7 @@ img{
 .art_thumbnail{
   padding: 20px;
   width: 60%;
-  height: 60%;
+  height: 100%;
 }
 .zoom_painting{
   cursor: zoom-in;
