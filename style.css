@@ -74,7 +74,6 @@ img{
 .grid-container {
   display: flex;
   flex-wrap: wrap;
-  grid-gap: 5px;
   
 }
 .grid-row{
@@ -84,6 +83,7 @@ img{
 .grid-item{
   flex: 1;
   box-sizing: border-box;
+  padding: 5px;
 }
 
 /* links*/
