@@ -73,7 +73,6 @@ img{
   display: grid;
   display: flex;
   grid-gap: 5px;
-  aspect-ratio: 1;
   
 }
 .grid-item{
