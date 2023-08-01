@@ -71,6 +71,7 @@ img{
 .grid-container {
   display: grid;
   grid-gap: 5px;
+  aspect-ratio: 1;
 }
 .grid-item{
   width: 50%;
