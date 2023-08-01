@@ -70,10 +70,14 @@ img{
 
 /*grid layout*/
 .grid-container {
-  display: grid;
   display: flex;
+  flex-wrap: wrap;
   grid-gap: 5px;
   
+}
+.grid-row{
+  width: 100%;
+  display: flex;
 }
 .grid-item{
   flex: 1;
