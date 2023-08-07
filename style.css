@@ -52,13 +52,11 @@ green: #87f59f*/
 }
 
 /*images*/
-img{
-  width: 35%;
-  height: 35%;
-}
 .logo_header{
   max-width: 100%;
+  width: 35%
   max-height: 100%;
+  height: 35%;
   object-fit: cover;
   /*object-position: center;*/
 }
