@@ -52,6 +52,10 @@ green: #87f59f*/
   object-fit: cover;
   /*object-position: center;*/
 }
+img{
+  width: 35%;
+  height: 35%;
+}
 /*art html thumbnail images*/
 .art_thumbnail{
   padding: 10px;
