@@ -86,6 +86,7 @@ green: #87f59f*/
 .grid-row2{
   width: 100%;
   display: flex;
+  
 }
 .grid-item{
   flex: 1;
