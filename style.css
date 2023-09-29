@@ -65,7 +65,7 @@ green: #87f59f*/
 /*art html thumbnail images*/
 .art_thumbnail{
   width: 100%;
-  width: 1000%;
+  width: 100%;
 }
 .zoom_painting{
   cursor: zoom-in;
