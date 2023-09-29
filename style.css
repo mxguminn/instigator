@@ -82,6 +82,7 @@ green: #87f59f*/
 .grid-row1{
   width: 100%;
   display: flex;
+  max-height: 75%;
 }
 /* .grid-row2{
   width: 100%;
