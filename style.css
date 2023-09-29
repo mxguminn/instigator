@@ -79,11 +79,14 @@ green: #87f59f*/
   flex-wrap: wrap;
   
 }
-.grid-row{
+.grid-row1{
   width: 100%;
   display: flex;
 }
-
+.grid-row2{
+  width: 100%;
+  display: flex;
+}
 .grid-item{
   flex: 1;
   box-sizing: border-box;
